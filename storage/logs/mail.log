@@ -1,0 +1,22 @@
+﻿
+[2026-09-30 11:53:21] FAILED -> kevin@helpdesk.local | [HD-2026-0002] New reply from System Admin
+[2026-09-30 11:53:21]    (PHP mail() failed — check MAIL_MODE/MAIL_FROM or switch to SMTP)
+[2026-10-05 07:50:34] FAILED -> brian@helpdesk.local | [HD-2026-0002] Assigned to Brian Otieno
+[2026-10-05 07:50:34]    (PHP mail() failed — check MAIL_MODE/MAIL_FROM or switch to SMTP)
+[2026-10-05 07:50:36] FAILED -> kevin@helpdesk.local | [HD-2026-0002] Your ticket was assigned to Brian Otieno
+[2026-10-05 07:50:36]    (PHP mail() failed — check MAIL_MODE/MAIL_FROM or switch to SMTP)
+[2026-10-05 07:50:43] FAILED -> brian@helpdesk.local | [HD-2026-0002] Assigned to Brian Otieno
+[2026-10-05 07:50:43]    (PHP mail() failed — check MAIL_MODE/MAIL_FROM or switch to SMTP)
+[2026-10-05 07:50:45] FAILED -> kevin@helpdesk.local | [HD-2026-0002] Your ticket was assigned to Brian Otieno
+[2026-10-05 07:50:45]    (PHP mail() failed — check MAIL_MODE/MAIL_FROM or switch to SMTP)
+[2026-10-05 07:52:41] FAILED -> kevin@helpdesk.local | [HD-2026-0002] Status Assigned -> Resolved
+[2026-10-05 07:52:41]    (PHP mail() failed — check MAIL_MODE/MAIL_FROM or switch to SMTP)
+[2026-10-12 08:44:14] FAILED -> kevin@helpdesk.local | [HD-2026-0001] New reply from System Admin
+[2026-10-12 08:44:14]    (PHP mail() failed — check MAIL_MODE/MAIL_FROM or switch to SMTP)
+[2026-10-12 08:44:16] FAILED -> leviskarenju@gmail.com | [HD-2026-0001] New reply from System Admin
+[2026-10-12 08:44:16]    (PHP mail() failed — check MAIL_MODE/MAIL_FROM or switch to SMTP)
+[2026-10-12 09:37:16] SMTP SENT -> eduxlevis@gmail.com | Helpdesk SMTP test
+[2026-10-12 09:52:17] SMTP SENT -> admin@helpdesk.local | Profile updated: Kevin Mwangi
+[2026-10-12 09:52:17] SENT -> admin@helpdesk.local | Profile updated: Kevin Mwangi
+[2026-10-12 09:52:22] SMTP SENT -> admin@helpdesk.local | Profile updated: Kevin Mwangi Jnr
+[2026-10-12 09:52:22] SENT -> admin@helpdesk.local | Profile updated: Kevin Mwangi Jnr
