@@ -37,15 +37,15 @@ define('IDLE_TIMEOUT',   1800); // 30 minutes
               'off'  = send nothing, write every message to storage/logs/mail.log
    Free hosts: keep 'mail' if your host allows it, otherwise switch to 'smtp'. */
 define('MAIL_MODE',      'smtp');
-define('MAIL_FROM',      'eduxlevis@gmail.com');
+define('MAIL_FROM',      '');
 define('MAIL_FROM_NAME', APP_NAME);
 define('MAIL_LOG',       dirname(__DIR__) . '/storage/logs/mail.log');
 
-define('SMTP_HOST',      'smtp.gmail.com');
+define('SMTP_HOST',      '');
 define('SMTP_PORT',      587);
 define('SMTP_SECURE',    'tls');   // tls | ssl | ''
-define('SMTP_USER',      'eduxlevis@gmail.com');
-define('SMTP_PASS',      'nsgzgrvojxxetlfk');
+define('SMTP_USER',      '');
+define('SMTP_PASS',      '');
 
 /* ── Ticket settings ──────────────────────────────────────────────────────── */
 define('TICKET_PREFIX', 'HD');
